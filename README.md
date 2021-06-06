@@ -2,5 +2,5 @@
 Algorithemic Trading
 
 # Algos
- Bollinger Bands
+ Bollinger Bands<br/>
  Previous range breakouts
