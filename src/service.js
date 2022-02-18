@@ -7,8 +7,8 @@ var nodemailer = require('nodemailer');
 var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'veera.surya99@gmail.com',
-      pass: 'Asdfghjkl123$'
+      user: ,
+      pass: 
     }
   });
 /*
@@ -594,8 +594,8 @@ async function getPrevOHLC(){
 
 function sendMail(symbol,analysis){
   var mailOptions = {
-    from: 'surya.veera99@gmail.com',
-    to: 'hari.surya99@gmail.com',
+    from: 
+    to: 
     subject: 'Trigger',
     text: symbol+" "+analysis
   };
